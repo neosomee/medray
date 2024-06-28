@@ -1,0 +1,18 @@
+.input_type {
+    padding:8px;
+    border:1px solid #ccc;
+    display:block;
+    border-bottom:1px solid #ccc;
+    width:25%
+}
+.sub_btn {
+    background-color: rgb(255,184,65);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+input[type="text"] { width: 98%; margin-bottom: 10px; height: 25px;}
+input[type="submit"] { margin-left: 480px; height: 45px; width: 213px; background: #c71e1c; }
